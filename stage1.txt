@@ -1,1 +1,2 @@
 stage1
+it is the first file
